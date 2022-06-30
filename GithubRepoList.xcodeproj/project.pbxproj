@@ -26,6 +26,7 @@
 		040BF383282D12E800CB0EA1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		040BF385282D12E800CB0EA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04EA4CCC2840EA3700CE5570 /* Subjects.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Subjects.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		04EA4CCD2840F19300CE5570 /* FilteringOperator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FilteringOperator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		04EF1BB52836322C00DA4D0C /* RxSwiftPractice.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RxSwiftPractice.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		04EF1BB6283642ED00DA4D0C /* Traits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Traits.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		1BBBDBED8AEB60B7D2328ED7 /* Pods-GithubRepoList.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GithubRepoList.release.xcconfig"; path = "Target Support Files/Pods-GithubRepoList/Pods-GithubRepoList.release.xcconfig"; sourceTree = "<group>"; };
@@ -48,9 +49,10 @@
 		040BF36B282D12E100CB0EA1 = {
 			isa = PBXGroup;
 			children = (
+				04EA4CCD2840F19300CE5570 /* FilteringOperator.playground */,
+				04EF1BB52836322C00DA4D0C /* RxSwiftPractice.playground */,
 				04EA4CCC2840EA3700CE5570 /* Subjects.playground */,
 				04EF1BB6283642ED00DA4D0C /* Traits.playground */,
-				04EF1BB52836322C00DA4D0C /* RxSwiftPractice.playground */,
 				040BF376282D12E100CB0EA1 /* GithubRepoList */,
 				040BF375282D12E100CB0EA1 /* Products */,
 				FF110B0AEDD6F5F72E956A22 /* Pods */,
